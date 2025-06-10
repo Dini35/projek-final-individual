@@ -1,6 +1,4 @@
-projek final membayar ukt menggunakan m-banking
-
-# Aplikasi Pembayaran UKT
+# projek final membayar ukt menggunakan m-banking
 
 Program ini dibuat menggunakan Python dan Tkinter.
 
